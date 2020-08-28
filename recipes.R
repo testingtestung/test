@@ -9,3 +9,5 @@ y <- 2
 
 # Add variables
 x + y
+
+print("finished")
